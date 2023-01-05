@@ -8,7 +8,7 @@ A Web Developer is a professional who is responsible for the design and construc
 
 * 🌍  I'm based in India Lucknow
 * ✉️  You can contact me at [ambikeshkumargautam@cedcommerce.com](mailto:ambikeshkumargautam@cedcommerce.com)
-* 🧠  I'm learning Node js, Datastructure and Algorithm
+* 🧠  I'm learning to get into open source.
 * 🤝  I'm open to collaborating on WordPress and Woocommerce Core
 
 <a href="https://www.github.com/nerdambikesh" target="_blank" rel="noreferrer"><img
