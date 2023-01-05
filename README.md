@@ -1,8 +1,8 @@
-Hi 👋 My name is Ambikesh kr Gautam
+Howdy 👋 It's Ambikesh Here
 ===================================
 
-Sofware Developer ( Web Ghost )
--------------------------------
+| Sofware Developer ( Web Ghost )
+----------------------------------
 
 A Web Developer is a professional who is responsible for the design and construction of websites but here I'm a bit different more than a developer I make things better by applying some worst/best feedback from my past. I just do not ensure that sites meet user expectations only I ensure they look good as well, and run smoothly. I love to get collaborate with open source, I'm very open you can write me at ambikeshkumargautam@cedcommerce.com anytime.
 
